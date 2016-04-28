@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Younique Film new Blog and page reel
-datePublished: '2016-04-28T10:46:55.781Z'
-dateModified: '2016-04-28T10:46:27.452Z'
+datePublished: '2016-04-28T10:48:29.632Z'
+dateModified: '2016-04-28T10:47:02.914Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-younique-film-new-blog-and-page-reel.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-younique-film-new-blog-and-page-reel.md
-published: true
 url: younique-film-new-blog-and-page-reel/index.html
 _type: Article
 
